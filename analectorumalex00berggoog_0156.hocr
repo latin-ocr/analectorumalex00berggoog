@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "analectorumalex00berggoog_0156.png"; bbox 0 0 4125 5242; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 12 42 4088 5196">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 12 42 4088 5196">
+     <span class='ocr_line' id='line_1_1' title="bbox 12 42 4088 5196; baseline 0 -124"><span class='ocrx_word' id='word_1_1' title='bbox 12 42 4088 5196; x_wconf 95' lang='lat' dir='ltr'>      </span> <span class='ocrx_word' id='word_1_2' title='bbox 3585 4777 4088 4905; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2884 4832 3548 4961">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2884 4832 3548 4974">
+     <span class='ocr_line' id='line_1_2' title="bbox 2884 4832 3548 4961; baseline -0.035 -13"><span class='ocrx_word' id='word_1_3' title='bbox 2884 4900 3119 4960; x_wconf 61' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_4' title='bbox 3145 4832 3340 4961; x_wconf 68' lang='lat' dir='ltr'>byG</span> <span class='ocrx_word' id='word_1_5' title='bbox 3365 4861 3548 4959; x_wconf 68' lang='lat' dir='ltr'>Q</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 12 5116 168 5196">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 12 5116 168 5196">
+     <span class='ocr_line' id='line_1_3' title="bbox 12 5116 168 5196; baseline 0 46"><span class='ocrx_word' id='word_1_6' title='bbox 12 5116 168 5196; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
